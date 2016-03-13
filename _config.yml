@@ -2,6 +2,7 @@ name: 'Networks & Wireless'
 favicon: null
 layout_spectrum: 0.6148607775103301
 typography_spectrum: 0.9300121129490435
+title: 'Networks & Wireless'
 cta:
   domain: null
   bucket: null

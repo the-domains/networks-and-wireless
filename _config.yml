@@ -6,10 +6,10 @@ color:
     - '#707080'
     - '#60A8C8'
     - '#F0E8D0'
-  brandStrength: 0.910473
+  brandStrength: 0.515203
   lightness: 0.53125
   rhythmicContrast: 0.723818
-  saturation: 0.765203
+  saturation: 0.546453
 cta: {}
 layout_spectrum: 1
 name: 'Networks & Wireless'

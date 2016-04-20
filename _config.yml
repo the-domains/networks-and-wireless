@@ -1,4 +1,19 @@
-analytics: {}
+name: 'Networks & Wireless'
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.50592
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#E8E0E0'
@@ -8,11 +23,6 @@ color:
     - '#F0E8D0'
   brandStrength: 0.515203
   lightness: 0.53125
-  rhythmicContrast: 0.723818
   saturation: 0.546453
-cta: {}
-layout_spectrum: 1
-name: 'Networks & Wireless'
-opengraph: {}
+  rhythmicContrast: 0.5
 purpose: []
-typography_spectrum: 0.805743
